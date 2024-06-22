@@ -3,8 +3,13 @@ Sample Linux Kernel Module to create and read a sample /proc file as discussed i
 Disclaimer: Of course if you just download and try this source on to any modern Linux distro comes with respective kernel, it may not work. Since as I always say in my videos, Linux Kernel is every evolving constantly changing source-code. Its nothing like user-space programming. So this example source which I wrote and discussed in the video is compatible for that version of the kernel. So kindly refer my article (link below) for further instructions, porting guidelines, and so on.
 
 For more details kindly refer: my Website article - The Linux Channel - https://thelinuxchannel.org/2023/10/linux-kernel-proc-interface-create-and-read-proc-file/ 
+
+For all articles related to Linux Kernel /proc interface - https://thelinuxchannel.org/category/linux-kernel-programming/linux-kernel-proc-interface/
+
 proc_example.c - discussed in my YouTube video - https://youtu.be/1gjW5krYpEU
+
 proc_example_updated_03-Mar-2021.c - discussed in my YouTube video - https://youtu.be/Cx3TN0iFdd0
+
 proc_example_updated_28-Apr-2022.c - discussed in my YouTube video - https://youtu.be/E2LtuEUNvbU
 
 I also conduct sessions/classes on Systems and Network Software Programming, Linux Kernel Programming and Architecture. Kindly follow the link below: https://thelinuxchannel.org/courses/
